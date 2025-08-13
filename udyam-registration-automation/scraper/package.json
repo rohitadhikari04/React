@@ -1,0 +1,6 @@
+{
+  "name": "udyam-scraper",
+  "version": "1.0.0",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "puppeteer": "^20.0.0" }
+}
